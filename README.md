@@ -7,3 +7,6 @@ All keys are 1u ortholinear except for:
 
 * split 2u spacebar
 * vertical 2u enter key
+
+My personal layout:
+![personal-layout](rev_a/misc/keyboard-layout.png)
