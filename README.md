@@ -11,3 +11,7 @@ All keys are 1u ortholinear except for:
 My personal layout:
 
 ![personal-layout](rev_a/misc/keyboard-layout.png)
+
+![dwzg72-top](rev_a/misc/dwzg72_top.png)
+
+![dwzg72-bottom](rev_a/misc/dwzg72_bottom.png)
